@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1245567,
+        "name": "Zombie Apocalypse Ghost Chili Hot Sauce",
+        "maker": "Torchbearer sauces",
+        "ingredients": "Bhut Jolokia Peppers, Habanero Peppers, Carrot, Mandarin Orange, Tomatoes, Distilled White Vinegar, Vegetable Oil, Garlic, Sugar, and other all natural spices",
+        "image": "/",
+        "scovilleunits": 500000,
+        "heatlevel": 3,
+        "price": "$15.25",
+        "rating": 3,
+        "tags": "ghost pepper, habanero, orange, tomatoes, vinegar"
+    },
+    {
+        "id": 4245268,
+        "name": "Bravado Spice Co. Ghost Pepper & Blueberry Hot Sauce",
+        "maker": "Bravado Spice Co",
+        "ingredients": "Blueberry, Raspberry, Distilled Vinegar, Ghost Pepper, Ground Black Pepper, & Sea Salt",
+        "image": "/",
+        "scovilleunits": 500000,
+        "heatlevel": 3,
+        "price": "$5.95",
+        "rating": 3,
+        "tags": "ghost pepper, habanero, orange, tomatoes, vinegar"
+    },
+    {
+        "id": 9945590,
+        "name": "Blair's Mega Death Hot Sauce",
+        "maker": "blair's",
+        "ingredients": "Habanero Peppers, Cayenne Peppers, Vinegar, Salt, Natural Flavor, Molasses, Guava Puree, Ginger, Corn Starch, Garlic, Chipotle Peppers, Onion, Ascorbic Acid (Vitamin C), Spices",
+        "image": "/",
+        "scovilleunits": 500000,
+        "heatlevel": 5,
+        "price": "$15.25",
+        "rating": 3,
+        "tags": "ghost pepper, habanero, orange, tomatoes, vinegar"
+    }      
+]

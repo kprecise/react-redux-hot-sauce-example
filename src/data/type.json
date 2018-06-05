@@ -1,0 +1,18 @@
+[  
+    {
+        "id": 0,
+        "category": "All"
+    },     
+    {
+        "id": 1,
+        "category": "Mild habanero"
+    },
+    {
+        "id": 2,
+        "category": "Ghost habanero"
+    },
+    {
+        "id": 3,
+        "category": "Pineapple scotch bonnet"
+    }        
+]
