@@ -1,5 +1,5 @@
-# React Webpack Starter
-> This is a boilerplate for React 16 & Webpack 4. It includes webpack-dev-server and a build script
+# React Webpack Starter & Redux
+> This is a boilerplate for React 16 & Webpack 4 with Redux
 
 ## Quick Start
 
@@ -8,18 +8,14 @@
 npm install
 
 # Serve on localhost:3000
-npm start
+npm dev build
 
 # Build for production
 npm run build
 ```
-
-## App Info
-
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Kyri Kyriacou
 
 ### Version
 
