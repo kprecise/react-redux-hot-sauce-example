@@ -1,8 +1,14 @@
-import { SAUCE_SELECTED } from '../constants';
 
-export const sauceSelected = (text) => {
-    return {
-        type: SAUCE_SELECTED,
-        text: text
-    }
-}
+/*
+ * action creators
+ */
+
+export const selectSauce = selectedSauce => ({ 
+    type: "SELECTED_SAUCE", 
+    sauce: selectedSauce 
+});
+
+export const clearSauces = allSauceSelections => ({ 
+    type: "CLEAR_SAUCES", 
+    sauce: allSauceSelections
+});
