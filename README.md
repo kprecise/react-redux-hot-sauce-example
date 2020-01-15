@@ -7,7 +7,7 @@ This is a simple React app that I wrote that uses a Webpack environment to run. 
 # Install dependencies
 npm install
 
-# Serve on localhost:8000
+# Serve on localhost:3000
 npm run dev
 
 # Build for production
